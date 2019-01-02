@@ -4,4 +4,4 @@ Compiler Web App which compiles Retro Basic code to intermediate code (B-code)
 
 https://retro-basic-compiler.herokuapp.com
 
-This complier project is part of 2110316 Programming Languages Principles
+![Retro Basic Compiler](https://user-images.githubusercontent.com/6850971/50581113-0a710c00-0e89-11e9-8592-8e81ed1fd49b.jpg)
